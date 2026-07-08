@@ -23,4 +23,3 @@ with open("/app/report.json", "w") as out:
         },
         out,
     )
-print("wrote /app/report.json")
